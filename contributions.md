@@ -24,4 +24,4 @@ Replace the first row below with your contribution.
 |  7   | [OpenStreetMap](https://www.openstreetmap.org/changeset/75611304) | OpenStreetMap Edit   | Added a few stores/shops in my neighborhood | 
 |  8   | [OpenStreetMap](https://www.openstreetmap.org/changeset/75939331) | OpenStreetMap Edit   | Added a mexican deli-grocery /restaurant that is in my neighborhood. |
 | 9 | [OpenStreetMap](https://www.openstreetmap.org/changeset/76249714) <br> [OpenStreetMap](https://www.openstreetmap.org/changeset/76249900)|OpenStreetMap | · Added Pizza Daddy Restaurant<br> · Added ice cream shop, dunkin' donuts, mcdanold's, and edited subway station to include train line.|
-|9| [Tobyau Blog 6 Edit](https://github.com/hunter-college-ossd-fall-2019/tobyau-weekly/pull/4)| Blog Edit | Re-phrased first section of blog discussing Karen Sandler and fixed some grammar.|
+|9| [Tobyau Blog Edit](https://github.com/hunter-college-ossd-fall-2019/tobyau-weekly/pull/4)| Blog 6 Edit | Re-phrased first section of blog discussing Karen Sandler and fixed some grammar.|
