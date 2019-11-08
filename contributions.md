@@ -29,3 +29,5 @@ Replace the first row below with your contribution.
 |10| [OpenStreetMap](https://www.openstreetmap.org/changeset/76535523)| OpenStreetMap Edit| - Added Fugu Sushi Restaurant <br> - Added Subways Sandwich Shop |
 |11| [Benjaminlgur Blog Edit](https://github.com/hunter-college-ossd-fall-2019/benjaminlgur-weekly/pull/3) | Blog 8 Edit | Re-phrased the text in the blog post and made some grammatical edits|
 |11| [Azheng4119 Blog Edit](https://github.com/hunter-college-ossd-fall-2019/azheng4119-weekly/pull/2)| Blog 5 Edit| Re-phrased the text in the blog post and made some grammatical edits|
+|11| [1. Charcot Marie Tooth](https://en.wikipedia.org/w/index.php?title=Charcot%E2%80%93Marie%E2%80%93Tooth_disease&diff=prev&oldid=925241961)<br> [2. Charcot Marie Tooth](https://en.wikipedia.org/w/index.php?title=Charcot%E2%80%93Marie%E2%80%93Tooth_disease&diff=prev&oldid=925242644)| Wikipedia Edit/Contribution | Changed some wording in the first paragraph of the "Diagnosis" section.|
+
