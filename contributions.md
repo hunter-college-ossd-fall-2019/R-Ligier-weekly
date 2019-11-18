@@ -33,4 +33,5 @@ Replace the first row below with your contribution.
 | 11| [Charcot Marie Tooth](https://en.wikipedia.org/w/index.php?title=Charcot%E2%80%93Marie%E2%80%93Tooth_disease&diff=prev&oldid=925581159) | Wikipedia Edit/Contribution | Re-worded some sentences in the "Management" section |
 |11| [OpenStreetMap](https://www.openstreetmap.org/changeset/76883167) | OpenStreetMap Edit | Edited tags of Rite Aid Pharmacy and added Laundromat. |
 |12| [Jxuan101 Blog Edit](https://github.com/hunter-college-ossd-fall-2019/jxuan101-weekly/pull/2)| Blog 8 Edit | Submitted pull request for re-wording/re-phrasing text in blog post and also fixed some minor spelling and grammar errors|
-
+|12| [Chocolate](https://en.wikipedia.org/w/index.php?title=Chocolate&diff=prev&oldid=926788079)| Wikipedia Edit| Re-worded 2-3 words to sound better|
+|12| [Tesla](https://en.wikipedia.org/w/index.php?title=Tesla,_Inc.&diff=prev&oldid=926791505)| Wikipedia Edit | Fixed minor grammar issues and did some re-word.|
