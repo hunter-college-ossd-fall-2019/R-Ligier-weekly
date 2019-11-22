@@ -37,3 +37,4 @@ Replace the first row below with your contribution.
 |12| [Tesla](https://en.wikipedia.org/w/index.php?title=Tesla,_Inc.&diff=prev&oldid=926791505)| Wikipedia Edit | Fixed minor grammar issues and did some re-word.|
 |13| [OpenStreetMap](https://www.openstreetmap.org/changeset/774389150)| OpenStreetMap Edit | Added print shop and judo training center.|
 |13| [OpenStreetMap](https://www.openstreetmap.org/changeset/77439400#map=16/40.6083/-73.9871)| OpenStreetMap Edit | Edited community center name and rite aid drug store info. Fixed car wash and gas station point and added info.|
+|13| [Bakainkorp Blog Edit](https://github.com/hunter-college-ossd-fall-2019/Bakainkorp-weekly/pull/7)| Blog 8 Edit | Submitted pull request - re-phrased the paragraph titled "The Project"|
